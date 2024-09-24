@@ -1,0 +1,20 @@
+{
+  "navbar": {
+    "aboutUs": "Về chúng tôi",
+    "products": "Sản phẩm",
+    "services": "Dịch vụ",
+    "projects": "Dự án",
+    "partners": "Đối tác",
+    "news": "Tin tức",
+    "regulations": "Thông tư - Nghị định"
+  },
+  "titles": {
+    "aboutUsTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut,",
+    "productsTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, possimus non ex, quis magni temporibus voluptates earum voluptatem praesentium officiis fuga quia necessitatibus?",
+    "servicesTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, possimus non ex, quis magni temporibus voluptates earum voluptatem praesentium officiis fuga quia necessitatibus?",
+    "projectsTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, possimus non ex, quis magni temporibus voluptates earum voluptatem praesentium officiis fuga quia necessitatibus?",
+    "partnersTitle": "This is a short description about this content",
+    "regulationsTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, possimus non ex, quis magni temporibus voluptates earum voluptatem praesentium officiis fuga quia necessitatibus?"
+  },
+  "language": "Ngôn Ngữ"
+}

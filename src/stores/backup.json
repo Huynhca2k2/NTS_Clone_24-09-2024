@@ -1,0 +1,131 @@
+{
+  "slidesApi": [
+    {
+      "id": 0,
+      "img": "/images/blue.png",
+      "title": "Products",
+      "content": "The Heroes of Clean Water: NTS Leading in Wastewater Treatment",
+      "desc": "NTS is committed to providing the most advanced solutions in wastewater treatment, helping to protect the environment and create positive impacts for the community.",
+      "more": "Learn more"
+    },
+    {
+      "id": 1,
+      "img": "/images/green.png",
+      "title": "Services",
+      "content": "Innovative Garden Equipment for Every Space",
+      "desc": "Elevate your outdoor space with innovative garden equipment. Whether it’s a small garden or a large yard, our equipment will help you create and maintain the garden of your dreams.",
+      "more": "Learn more"
+    },
+    {
+      "id": 2,
+      "img": "/images/darkBlue.png",
+      "title": "Community Projects",
+      "content": "Electrical Mechanical Design - Taking Your Project to New Heights",
+      "desc": "With an experienced team of engineers, we provide comprehensive electrical mechanical design services, meeting all technical requirements and delivering outstanding efficiency for your project.",
+      "more": "Learn more"
+    }
+  ],
+  "imageCompaniesApi": [
+    { "alt": "irritec", "src": "/images/irricadTextLogo1.png" },
+    { "alt": "tata garden", "src": "/images/tataGardenBanner1.png" },
+    { "alt": "clearfox", "src": "/images/clearfoxLogoWeiss1.png" },
+    { "alt": "econity", "src": "/images/econityLogo1.png" },
+    { "alt": "irritec", "src": "/images/irritecAnniversaryLogo1.png" }
+  ],
+  "introDataApi": {
+    "title": "About Us",
+    "desc": "Founded in 2013, NTS Engineering Co., Ltd. aims to become the leading provider of engineering solutions. The main areas NTS has passionately pursued from the beginning are: Mechanical and electrical consulting, Water treatment, Water reuse; Providing garden equipment, irrigation equipment; Rainwater harvesting equipment and other utilities...",
+    "more": "About us",
+    "images": [
+      { "alt": "pic1", "src": "/images/rectangle4768.png" },
+      { "alt": "pic2", "src": "/images/rectangle4769.png" },
+      { "alt": "pic3", "src": "/images/rectangle4770.png" }
+    ]
+  },
+  "categoriesApi": [
+    {
+      "id": 0,
+      "title": "Products",
+      "desc": "NTS Engineering, with its team of experts, is always searching for plastic products to enhance the efficiency of water treatment technology, wastewater treatment.",
+      "more": "Learn more",
+      "src": "/images/20240821-140605.png"
+    },
+    {
+      "id": 1,
+      "title": "Services",
+      "desc": "NTS Engineering, with its team of experts, is always searching for plastic products to enhance the efficiency of water treatment technology, wastewater treatment.",
+      "more": "Learn more",
+      "src": "/images/20240821-140611.png"
+    },
+    {
+      "id": 2,
+      "title": "Community Projects",
+      "desc": "Providing clean water for the community is considered our duty and responsibility as we operate in the water sector. This is an opportunity for us to share with difficult regions and people.",
+      "more": "Learn more",
+      "src": "/images/20240821-140616.png"
+    }
+  ],
+  "companiesApi": [
+    {
+      "alt": "pic1",
+      "src": "/images/irritecAnniversaryLogo1.png",
+      "name": "Irritec",
+      "more": "Visit website",
+      "desc": "This is a short description of this card. This is a short description of this card."
+    },
+    {
+      "alt": "pic2",
+      "src": "/images/clearfoxLogoWeiss1.png",
+      "name": "ClearFox",
+      "more": "Visit website",
+      "desc": "This is a short description of this card. This is a short description of this card. This is a short description of this card. This is a short description of this card."
+    },
+    {
+      "alt": "pic3",
+      "src": "/images/econityLogo1.png",
+      "name": "Econity",
+      "more": "Visit website",
+      "desc": "This is a short description of this card. This is a short description of this card."
+    }
+  ],
+  "memberCompanyApi": {
+    "title": "Member Companies",
+    "more": "Learn more",
+    "desc": "Founded in 2013, NTS Engineering Co., Ltd. aims to become the leading provider of engineering solutions. All are focused on providing long-lasting and sustainable utilities for life."
+  },
+  "projectsApi": [
+    {
+      "alt": "pic1",
+      "src": "/images/project1.png",
+      "name": "Water Treatment",
+      "title": "FPT 3 Office Building Wastewater Treatment Project - District 9",
+      "more": "Read now",
+      "desc": "This is a short description of this project. This is a short description of this project."
+    },
+    {
+      "alt": "pic2",
+      "src": "/images/project2.png",
+      "name": "Water Treatment",
+      "title": "FPT 3 Office Building Wastewater Treatment Project - District 9",
+      "more": "Read now",
+      "desc": "This is a short description of this project. This is a short description of this project."
+    },
+    {
+      "name": "Water Treatment",
+      "title": "FPT 3 Office Building Wastewater Treatment Project - District 9",
+      "more": "Read now",
+      "desc": "This is a short description of this project. This is a short description of this project."
+    },
+    {
+      "name": "Water Treatment",
+      "title": "FPT 3 Office Building Wastewater Treatment Project - District 9",
+      "more": "Read now",
+      "desc": "This is a short description of this project. This is a short description of this project."
+    }
+  ],
+  "dataApi": {
+    "title": "Completed Projects",
+    "desc": "This is a short description of this content. This is a short description of this content.",
+    "name": "Project"
+  }
+}

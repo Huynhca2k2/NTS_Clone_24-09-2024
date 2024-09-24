@@ -1,0 +1,20 @@
+{
+  "navbar": {
+    "aboutUs": "About Us",
+    "products": "Products",
+    "services": "Services",
+    "projects": "Projects",
+    "partners": "Partners",
+    "news": "News",
+    "regulations": "Regulations"
+  },
+  "titles": {
+    "aboutUsTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut,",
+    "productsTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, possimus non ex, quis magni temporibus voluptates earum voluptatem praesentium officiis fuga quia necessitatibus?",
+    "servicesTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, possimus non ex, quis magni temporibus voluptates earum voluptatem praesentium officiis fuga quia necessitatibus?",
+    "projectsTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, possimus non ex, quis magni temporibus voluptates earum voluptatem praesentium officiis fuga quia necessitatibus?",
+    "partnersTitle": "This is a short description about this content",
+    "regulationsTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, possimus non ex, quis magni temporibus voluptates earum voluptatem praesentium officiis fuga quia necessitatibus?"
+  },
+  "language": "Language"
+}
